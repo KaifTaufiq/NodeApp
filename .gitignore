@@ -1,2 +1,10 @@
 node_modules
 package-lock.json
+src
+components.json
+eslint.congif.js
+index.html
+package.json
+postcss.config.js
+tailwind.config.json
+vite.config.js
